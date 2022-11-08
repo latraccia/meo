@@ -28,7 +28,8 @@ Nella [brochure](https://github.com/latraccia/meo/Documenti/MEO_brochure.pdf) so
 |-----------|-----------|---------|
 |[Oracle Database](https://www.oracle.com/it/database/) | 11> |Base dati (qualsiasi release)
 |[Oracle Application Express](https://apex.oracle.com/)|5>|Ambiente di sviluppo
-|[Tomcat](https://tomcat.apache.org) (o altri Apex compliant)|-|Application server 
+|[Oracle REST Data Services](https://www.oracle.com/it/database/technologies/appdev/rest.html)|18>|PL/SQL Gateway
+|[Tomcat](https://tomcat.apache.org) (o altri Apex compliant)|8>|Application server 
 |[JasperSoft Studio](https://community.jaspersoft.com)|>5|Report builder
 
 ## Installazione
