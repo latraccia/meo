@@ -8,9 +8,11 @@ MeO è stato sviluppato nel 1990 secondo le specifiche richieste dall'Ordine dei
 E' oggi utilizzato da oltre 20 Ordini Professionali dei Medici Chirurghi e degli Odontoiatri, ed è stato evoluto a seconda delle esigenze normative e/o organizzative.
 Nel 2017 è stata rilasciata la versione Web del modulo MEO e l'anno successivo è stato reso disponibile in Cloud.
 A marzo 2021 il software è stato certificato nel Marketplace AGID (https://catalogocloud.agid.gov.it/service/1607).
+
 Il Sistema è assimilabile ad un vero e proprio Enterprise Resource Planning (ERP) nell'ambito della gestione degli Ordini Professionali dei Medici Chirurghi ed Odontoiatri in quanto supporta tutte le attività gestionali e amministrative dell’Ordine, automatizzando il ciclo di presenza di un iscritto, a partire dalla richiesta di iscrizione sino alla sua cancellazione dagli albi ma è integrabile con altri specifici moduli (protocollo, contabilità...) supportandone i processi e garantendo interoperabilità e uniformità gestionale.
-Nella [brochure](https://github.com/latraccia/meo/Documenti/MEO_brochure.pdf) sono evidenziate le principali carattersitche del Sistema.
-https://catalogocloud.agid.gov.it/service/1607
+
+Nella [brochure](https://github.com/latraccia/meo/Documenti/MEO_brochure.pdf) sono evidenziate le principali caratteristiche del Sistema.
+
 
 ## Framework, tecnologie e linguaggi utilizzati
  - Oracle DataBase vers. 11 e superiori
