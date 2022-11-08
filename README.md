@@ -27,7 +27,7 @@ Nella [brochure](https://github.com/latraccia/meo/Documenti/MEO_brochure.pdf) so
 |Requisito| Versione |Descrizione|
 |-----------|-----------|---------|
 |[Oracle Database](https://www.oracle.com/it/database/) | 11 |Base dati (qualsiasi release)
-|[Oracle Application Express](https://apex.oracle.com/)|4|Ambiente di sviluppo
+|[Oracle Application Express](https://apex.oracle.com/)|5>|Ambiente di sviluppo
 |[Tomcat](https://tomcat.apache.org) (o altri Apex compliant)|-|Application server 
 |[JasperSoft Studio](https://community.jaspersoft.com)|>5|Report builder
 
