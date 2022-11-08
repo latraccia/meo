@@ -39,117 +39,117 @@ Per tutti i dettagli circa le modalità di installazione del MODULO leggere e se
 Di seguito i principali Componenti da cui è composto il modulo
 
  01. **Archivi di Base**
- ,Informazioni di Carattere generale sull'Ordine 
- ,tabelle Nazioni/Province/Comuni/CAP
- ,Atenei
- ,Branche Specializzazioni
- ,Elenchi Speciali
- ,Motivi Cancellazione
- ,Attività
- ,Master
- ,Dottorati
- ,Annotazioni
- ,Accessori
- ,Codice Deontologico
- ,Tipi Permessi Soggiorno
- ,Documenti da Rilasciare
- ,Normativa
- ,Certificazioni/Documenti
- ,Tribunali
- ,Esenzione Certificati
- ,Gestione Abilitazione Ruoli
- ,Località Attività
- ,Gestione Tipi Docenza
- ,Gestione Regime Impegno Docenza
- ,Specializzazioni
- ,Causali Blocco Certificati
- ,Gestione Attività Professionali
- ,Gestione Causali Provv. Disciplinare
- ,Gestione Risposte Non Vaccinati
- ,Direttori e Strutture Sanitarie
+, Informazioni di Carattere generale sull'Ordine 
+, tabelle Nazioni/Province/Comuni/CAP
+, Atenei
+, Branche Specializzazioni
+, Elenchi Speciali
+, Motivi Cancellazione
+, Attività
+, Master
+, Dottorati
+, Annotazioni
+, Accessori
+, Codice Deontologico
+, Tipi Permessi Soggiorno
+, Documenti da Rilasciare
+, Normativa
+, Certificazioni/Documenti
+, Tribunali
+, Esenzione Certificati
+, Gestione Abilitazione Ruoli
+, Località Attività
+, Gestione Tipi Docenza
+, Gestione Regime Impegno Docenza
+, Specializzazioni
+, Causali Blocco Certificati
+, Gestione Attività Professionali
+, Gestione Causali Provv. Disciplinare
+, Gestione Risposte Non Vaccinati
+, Direttori e Strutture Sanitarie
 
  02. **Delibere**
- ,Stato delle Richieste
- ,Iscrizioni/Cancellazioni
- ,Doppia Iscrizione Albo Odontoiatri
- ,Doppia Iscrizione Albo Chirurghi
- ,Iscrizione per Doppia Laurea
- ,Iscrizioni Transitori
- ,Stato delle Richieste delle Società
- ,Iscrizioni/Cancellazioni Società
- ,Gestione Ratifiche
- ,Conferma Delibera
+, Stato delle Richieste
+, Iscrizioni/Cancellazioni
+, Doppia Iscrizione Albo Odontoiatri
+, Doppia Iscrizione Albo Chirurghi
+, Iscrizione per Doppia Laurea
+, Iscrizioni Transitori
+, Stato delle Richieste delle Società
+, Iscrizioni/Cancellazioni Società
+, Gestione Ratifiche
+, Conferma Delibera
 
  03. **Iscritti**
- ,Elenco Iscritti
- ,Scheda Iscritto
- ,Elenco Società Iscritte
- ,Scheda Società Iscritta
- ,Giuramento Iscritti
- ,Validazione Cambio Indirizzi
- ,Validazione Inserimento Specializzazione 
+, Elenco Iscritti
+, Scheda Iscritto
+, Elenco Società Iscritte
+, Scheda Società Iscritta
+, Giuramento Iscritti
+, Validazione Cambio Indirizzi
+, Validazione Inserimento Specializzazione 
 
  04. **Procedimenti Disciplinari**
- ,Istruttorie
- ,Provvedimenti Disciplinari
- ,Istruttorie Non Iscritti.
- ,Provvedimenti Non Iscritti. 
+, Istruttorie
+, Provvedimenti Disciplinari
+, Istruttorie Non Iscritti.
+, Provvedimenti Non Iscritti. 
 
  05. **Ruoli**
- ,Tabella quote annuali
- ,Elaborazione Annuale Ruoli
- ,Creazione File CBI per banca
- ,Importazione file MAV
- ,Importazione file Bonifici Bancari
- ,Situazione Riscossione
- ,Tabulati PagoPA
- ,Genera PagoPA
- ,Sollecito Morosi
- ,Sollecito Morosi Plurianno
- ,Convocazione Presidente
- ,Modifica Massiva PagoPA
- ,Elenco SDD
+, Tabella quote annuali
+, Elaborazione Annuale Ruoli
+, Creazione File CBI per banca
+, Importazione file MAV
+, Importazione file Bonifici Bancari
+, Situazione Riscossione
+, Tabulati PagoPA
+, Genera PagoPA
+, Sollecito Morosi
+, Sollecito Morosi Plurianno
+, Convocazione Presidente
+, Modifica Massiva PagoPA
+, Elenco SDD
 
  06. **Pagamenti e Incassi**
- ,Configurazione
- ,IBAN
- ,Posizioni Debitorie
- ,Rendicontazioni
- ,Ricevute di Pagamento
- ,Tassonomia
- ,Tipologie di Pagamento
+, Configurazione
+, IBAN
+, Posizioni Debitorie
+, Rendicontazioni
+, Ricevute di Pagamento
+, Tassonomia
+, Tipologie di Pagamento
 
  07. **Stampe**
- ,Elenco Iscritti con parametri di selezione a scelta
- ,Rilascio Certificato Iscritti
- ,Lettere Automatiche
- ,Stampa Tesserino
- ,Rilascio Documenti per Esterni
- ,Esito Invio Email/Pec
- ,Estrazione Dati 
- ,Permessi di Soggiorno
- ,Delibere Confermate
- ,Statistiche
+, Elenco Iscritti con parametri di selezione a scelta
+, Rilascio Certificato Iscritti
+, Lettere Automatiche
+, Stampa Tesserino
+, Rilascio Documenti per Esterni
+, Esito Invio Email/Pec
+, Estrazione Dati 
+, Permessi di Soggiorno
+, Delibere Confermate
+, Statistiche
 
  08. **Elezioni**
- ,Gestione Seggio 
- ,Calcolo Quorum
- ,Conteggio Voti 
+, Gestione Seggio 
+, Calcolo Quorum
+, Conteggio Voti 
 
  09. **Utilità**
- ,Importazione Codici ENPAM
- ,Importazione Indirizzi PEC
- ,Ricarica Documenti
- ,Anagrafe Tributaria
- ,Casellario Giudiziale
- ,Creazione File XML Enpam/Fnomceo
- ,Gestione Lettere Automatiche
- ,Gestione Testo Privacy
- ,Conferma validità iscrizione
- ,Raccolta
- ,Ripristina Iscrizione
- ,Cambio Password
- ,Importazione file NON vaccinazioni
+, Importazione Codici ENPAM
+, Importazione Indirizzi PEC
+, Ricarica Documenti
+, Anagrafe Tributaria
+, Casellario Giudiziale
+, Creazione File XML Enpam/Fnomceo
+, Gestione Lettere Automatiche
+, Gestione Testo Privacy
+, Conferma validità iscrizione
+, Raccolta
+, Ripristina Iscrizione
+, Cambio Password
+, Importazione file NON vaccinazioni
 
 ## Documenti 
 Di seguito i documenti che accompagnano il codice
