@@ -60,28 +60,28 @@ I seguenti moduli sono disponibili e integrabili con il modulo MEO con cui condi
 **EPROT**	
 Gestione Protocollo informatico. Scansione automatizzata per salvataggio allegati,  plug-in per MS WORD, possibilità di memorizzazione allegati in ambiente S3 o FTP, Creazione e Conservazione Automatica del Registro di Procollo, Protocollazione Automatica Fatture elettroniche, Web Service per protocollazione.
 
-EPROT-MAIL
+**EPROT-MAIL**
 Protocollazione Automatica di E-mail e PEC, con gestione del workflow di lettura, memorizzazione come allegato della email e relativi allegati, possibilità di memorizzare allegati in ambente S3 o FTP
 
-SIC 	
+**SIC** 	
 Contabilità finanziaria, gestione dei bilanci, impegni, accertamenti, mandati, reversali. Inventario Beni, Gestione Oil o Siope+ per Banca Tesoriera.
 
-PAGOPA 	
+**PAGOPA** 	
 Sistema di pagamenti elettronici verso la Pubblica Amministrazione, con stampa bollettini, ricezione notifica pagamenti, Web Service di Colloquio
 
-FATTEL 	
+**FATTEL** 	
 Sistema per gestione Fatture Elettroniche, Conservazione a Norma, gestione risposte, client di protocollazione automatica, client di Invio a sistemi Contabili per il registro delle fatture.
 
-CORSI 	
+**CORSI** 	
 Organizzazione dei corsi, iscrizione online, gestione dei crediti, stampa attestati.
 Gestisce corsi in aula o web con integrazione con piattaforme di video conferenza (Zoom).
 
-FEEDBACKTOBUSINESS
+**FEEDBACKTOBUSINESS**
 Gestione dei Questionari di valutazione, quiz per esami, analisi e statistiche.
 
-RILPRES 	
+**RILPRES** 	
 Rilevazione presenze/assenze con gestione turni, Calcolo orario, gestione MonteOre Causali di Assenza, produzione file per Sistema Paghe. Acquisizione delle timbrature tramite Terminali Orologi Elettronici, acquisizione automatica da INPS dei certificati Medici
 
-INFOPOINT 	
+**INFOPOINT** 	
 Portale Dipendenti per visione cartellino presenze, richieste e validazione timbrature mancanti e permessi, saldo al giorno. Modulo per pubblicazione comunicazioni e documentazione ad uso del singolo dipendente.
 
