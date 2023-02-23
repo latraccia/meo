@@ -3,7 +3,7 @@
 # More info at https://github.com/italia/publiccode.yml
 
 publiccodeYmlVersion: '0.2'
-applicationSuite: SuitePA Modulo MEO
+applicationSuite: Suite PA Modulo MEO
 categories:
   - productivity-suite
   - accounting
@@ -15,56 +15,85 @@ description:
       - 'Archivi di Base: Tabelle applicative'
       - |-
         Delibere : Iscrizioni, Cancellazioni,  Stato delle richieste, Lettere
+
         conferma...
       - 'Iscritti: Gestione Anagrafica iscritto , STP...'
       - 'Procedimenti Disciplinari:  Intero ciclo di vita di un procedimento '
       - |-
         Ruoli : Generazione, Predisposizione File per differenti PsP,
+
         integrazione pagoPA, Solleciti, Morosi
       - |-
         Pagamenti e Incassi : Posizioni Debitorie , Rendicontazioni , Ricevute
-        di Pagamento 
+
+         di Pagamento 
       - |-
         Stampe : Estrazioni in vari formati dei dati secondo in modalità
-        parametrica
-      - Elezioni
+
+         parametrica
+      - Elezioni : Seggio Elettorale, Calcolo Quorum, Conteggio Voti
     genericName: Gestione degli Albi dei Medici Chir
     longDescription: |
       ## Gestione Albi Ordini Professionali dei Medici Chirurghi e degli
+
       Odontoiatri
 
 
+
       E' un sistema Informatico di Gestione degli Albi dei  Medici Chirurghi e
+
       degli Odontoiatri . Supporta tutte le attività  gestionali e
+
       amministrative dell’Ordine, automatizzando il ciclo di  presenza di un
+
       iscritto, a partire dalla richiesta di iscrizione sino  alla cancellazione
+
       dagli albi.
+
 
 
       Questo è il modulo attualmente reso disponibile con la licenza EUPL
 
 
+
       MeO è stato sviluppato nel 1990 secondo le specifiche  richieste
+
       dall'Ordine dei Medici Chirurghi ed Odontoiatri della  Provincia di Bari.
+
       E' oggi utilizzato da oltre 20 Ordini Professionali dei Medici Chirurghi 
+
       e degli Odontoiatri, ed è stato evoluto a seconda delle esigenze 
+
       normative e/o organizzative. Nel 2017 è stata rilasciata la versione Web
+
       del modulo MEO e l'anno  successivo è stato reso disponibile in Cloud. A
+
       marzo 2021 il software è stato certificato nel Marketplace AGID
+
       ([https://catalogocloud.agid.gov.it/service/1607](https://catalogocloud.agid.gov.it/service/1607)).
 
 
+
       Il Sistema è assimilabile ad un vero e proprio Enterprise  Resource
+
       Planning (ERP) nell'ambito della gestione degli Ordini  Professionali dei
+
       Medici Chirurghi ed Odontoiatri in quanto supporta  tutte le attività
+
       gestionali e amministrative dell’Ordine,  automatizzando il ciclo di
+
       presenza di un iscritto, a partire dalla  richiesta di iscrizione sino
+
       alla sua cancellazione dagli albi ma è  integrabile con altri specifici
+
       moduli (protocollo, contabilità...)  supportandone i processi e garantendo
+
       interoperabilità e uniformità  gestionale.
     shortDescription: |-
       E' un sistema Informatico di Gestione degli Albi dei Medici Chirurghi e
+
       degli Odontoiatri . Supporta tutte le attività gestionali e
+
       amministrative.
 developmentStatus: stable
 intendedAudience:
@@ -121,24 +150,23 @@ softwareType: standalone/web
 softwareVersion: '3.2022'
 url: 'https://github.com/latraccia/meo'
 usedBy:
-  - |-
+  - Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Bari
+  - Ordine Dei Medici Chirurghi e Odontoiatri della Provincia Bat
+  - Ordine Medici Chirurghi ed Odontoiatri Provincia di Foggia
+  - Ordine Dei Medici Chirurghi e Degli Odontoatri della Provincia di Brindisi
   - Ordine dei Medici Chirurghi e degli Odontoiatri della provincia di Cosenza
-	- Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Catanzaro
-	- Ordine Dei Medici Chirurghi e Degli Odontoiatri di Potenza
-	- Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Bari
-	- Ordine Dei Medici Chirurghi e Degli Odontoatri della Provincia di Brindisi
-	- Ordine Dei Medici Chirurghi e Odontoiatri della Provincia Bat
-	- Ordine Medici Chirurghi ed Odontoiatri Provincia di Foggia
-	- Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Salerno
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Latina
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di L'Aquila
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Fermo
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Macerata
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Trieste
-	- Ordine Medici Chirurghi Ed Odontoiatri Mantova
-	- Ordine Provinciale Dei Medici Chirurghi e Degli Odontoiatri di Cremona
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Milano
-	- Ordine Provinciale Dei Medici Chirurghi e Degli Odontoiatri di Biella
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Torino
-	- Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Cagliari
-	- Ordine dei Medici Chirurghi e degli Odontoiatri della provincia di Sassari
+  - Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Catanzaro
+  - Ordine Dei Medici Chirurghi e Degli Odontoiatri di Potenza
+  - Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Salerno
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Latina
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di L'Aquila
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Fermo
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Macerata
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Trieste
+  - Ordine Medici Chirurghi Ed Odontoiatri Mantova
+  - Ordine Provinciale Dei Medici Chirurghi e Degli Odontoiatri di Cremona
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Milano
+  - Ordine Provinciale Dei Medici Chirurghi e Degli Odontoiatri di Biella
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Torino
+  - Ordine Dei Medici Chirurghi e Degli Odontoiatri della Provincia di Cagliari
+  - Ordine dei Medici Chirurghi e degli Odontoiatri della provincia di Sassari
