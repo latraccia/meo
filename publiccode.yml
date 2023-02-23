@@ -1,0 +1,129 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+applicationSuite: SuitePA Modulo MEO
+categories:
+  - productivity-suite
+  - accounting
+  - appointment-scheduling
+description:
+  it:
+    documentation: 'https://github.com/latraccia/meo/tree/main/Documenti/Manuali'
+    features:
+      - 'Archivi di Base: Tabelle applicative'
+      - |-
+        Delibere : Iscrizioni, Cancellazioni,  Stato delle richieste, Lettere
+        conferma...
+      - 'Iscritti: Gestione Anagrafica iscritto , STP...'
+      - 'Procedimenti Disciplinari:  Intero ciclo di vita di un procedimento '
+      - |-
+        Ruoli : Generazione, Predisposizione File per differenti PsP,
+        integrazione pagoPA, Solleciti, Morosi
+      - |-
+        Pagamenti e Incassi : Posizioni Debitorie , Rendicontazioni , Ricevute
+        di Pagamento 
+      - |-
+        Stampe : Estrazioni in vari formati dei dati secondo in modalità
+        parametrica
+      - Elezioni
+    genericName: Gestione degli Albi dei Medici Chir
+    longDescription: |
+      ## Gestione Albi Ordini Professionali dei Medici Chirurghi e degli
+      Odontoiatri
+
+
+      E' un sistema Informatico di Gestione degli Albi dei  Medici Chirurghi e
+      degli Odontoiatri . Supporta tutte le attività  gestionali e
+      amministrative dell’Ordine, automatizzando il ciclo di  presenza di un
+      iscritto, a partire dalla richiesta di iscrizione sino  alla cancellazione
+      dagli albi.
+
+
+      Questo è il modulo attualmente reso disponibile con la licenza EUPL
+
+
+      MeO è stato sviluppato nel 1990 secondo le specifiche  richieste
+      dall'Ordine dei Medici Chirurghi ed Odontoiatri della  Provincia di Bari.
+      E' oggi utilizzato da oltre 20 Ordini Professionali dei Medici Chirurghi 
+      e degli Odontoiatri, ed è stato evoluto a seconda delle esigenze 
+      normative e/o organizzative. Nel 2017 è stata rilasciata la versione Web
+      del modulo MEO e l'anno  successivo è stato reso disponibile in Cloud. A
+      marzo 2021 il software è stato certificato nel Marketplace AGID
+      ([https://catalogocloud.agid.gov.it/service/1607](https://catalogocloud.agid.gov.it/service/1607)).
+
+
+      Il Sistema è assimilabile ad un vero e proprio Enterprise  Resource
+      Planning (ERP) nell'ambito della gestione degli Ordini  Professionali dei
+      Medici Chirurghi ed Odontoiatri in quanto supporta  tutte le attività
+      gestionali e amministrative dell’Ordine,  automatizzando il ciclo di
+      presenza di un iscritto, a partire dalla  richiesta di iscrizione sino
+      alla sua cancellazione dagli albi ma è  integrabile con altri specifici
+      moduli (protocollo, contabilità...)  supportandone i processi e garantendo
+      interoperabilità e uniformità  gestionale.
+    shortDescription: |-
+      E' un sistema Informatico di Gestione degli Albi dei Medici Chirurghi e
+      degli Odontoiatri . Supporta tutte le attività gestionali e
+      amministrative.
+developmentStatus: stable
+intendedAudience:
+  countries:
+    - it
+  scope:
+    - government
+it:
+  conforme:
+    gdpr: true
+    lineeGuidaDesign: true
+    misureMinimeSicurezza: true
+    modelloInteroperabilita: true
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: true
+    cie: true
+    pagopa: true
+    spid: true
+legal:
+  license: EUPL-1.2
+  mainCopyrightOwner: Cooperativa EDP La Traccia
+  repoOwner: Cooperativa EDP La Traccia
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: false
+maintenance:
+  contacts:
+    - email: alobefaro@latraccia.it
+      name: Angelo Raffaele Lobefaro
+      phone: '+393355689312'
+    - email: fsalvatore@latraccia.it
+      name: Francesco Salvatore
+      phone: '+393357067041'
+    - email: dtaratufolo@latraccia.it
+      name: Domenico Taratufolo
+      phone: '+393683532207'
+  contractors:
+    - name: Cooperativa EDP La Traccia
+      until: '1994-01-31'
+      website: 'https://www.latraccia.it'
+  type: contract
+name: MEO
+platforms:
+  - web
+  - windows
+  - mac
+  - linux
+  - ios
+  - android
+releaseDate: '2022-11-08'
+softwareType: standalone/web
+softwareVersion: '3.2022'
+url: 'https://github.com/latraccia/meo'
+usedBy:
+  - |-
+    Complessivamente 22 Ordini Provinciali dei Medici Chirurghi ed Odontoiatri,
+    tra cui:
+  - Ordine Medici Chirurghi ed Odontoiatri della Provincia di Milano
+  - Ordine dei Medici Chirurghi ed Odontoiatri della Provincia di Torino
+  - Ordine Medici Chirurghi ed Odontoiatri della Provincia di Bari
