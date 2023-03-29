@@ -8,6 +8,34 @@ categories:
   - productivity-suite
   - accounting
   - appointment-scheduling
+dependsOn:
+  open:
+    - name: Apache Tomcat
+      optional: false
+      version: ''
+      versionMax: '9'
+      versionMin: '8'
+    - name: Jasper Soft Studio
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: 6.11 o superiore
+  proprietary:
+    - name: Oracle Dabatase
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: 11 XE o superiori
+    - name: Oracle Application Express
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: 5.0.4 o superiore
+    - name: Oracle Rest Data Service
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: 18 o superiore
 description:
   it:
     documentation: 'https://github.com/latraccia/meo/tree/main/Documenti/Manuali'
@@ -15,68 +43,97 @@ description:
       - 'Archivi di Base: Tabelle applicative'
       - |-
         Delibere : Iscrizioni, Cancellazioni,  Stato delle richieste, Lettere
+
         conferma...
       - 'Iscritti: Gestione Anagrafica iscritto , STP...'
       - |-
         rocedimenti Disciplinari:  Intero ciclo di vita di un procedimento
+
         disciplinare
       - |-
         Ruoli : Generazione, Predisposizione File per differenti
+
         PsP,integrazione pagoPA, Solleciti, Morosi
       - |-
         Pagamenti e Incassi : Posizioni Debitorie , Rendicontazioni , Ricevute
+
         di Pagamento
       - |-
         Stampe : Estrazioni in vari formati dei dati secondo in modalità
+
         parametrica
     genericName: Gestione Albi Medici e Odontoiatri
     longDescription: |
       # Gestione Albi Ordini Professionali 
 
 
+
       # dei Medici Chirurghi e degli Odontoiatri
 
 
+
       E' un sistema Informatico di Gestione degli Albi dei Medici Chirurghi e
+
       degli Odontoiatri . 
 
 
+
       Supporta tutte le attività gestionali e amministrative dell’Ordine,
+
       automatizzando  il ciclo di presenza di un iscritto, a partire dalla
+
       richiesta di iscrizione sino alla cancellazione dagli albi.
+
 
 
       Questo è il modulo attualmente reso disponibile con la licenza EUPL.
 
 
+
       MeO è stato sviluppato nel 1990 secondo le specifiche richieste
+
       dall'Ordine dei Medici Chirurghi ed Odontoiatri della Provincia di Bari.
 
 
+
       E' oggi utilizzato da oltre 20 Ordini Professionali dei Medici Chirurghi e
+
       degli Odontoiatri, ed è stato evoluto a seconda delle esigenze normative
+
       e/o organizzative. 
 
 
+
       Nel 2017 è stata rilasciata la versione Web del modulo MEO e l'anno
+
       successivo è stato reso disponibile in Cloud. 
 
 
+
       A marzo 2021 il software è stato certificato nel Marketplace AGID
+
       (https://catalogocloud.agid.gov.it/service/1607).
 
 
+
       Il Sistema è assimilabile ad un vero e proprio Enterprise Resource
+
       Planning (ERP) nell'ambito della gestione degli Ordini Professionali dei
+
       Medici Chirurghi ed Odontoiatri. 
 
 
+
       Si integra con una serie di moduli specifici moduli (protocollo,
+
       contabilità...) supportandone i processi e garantendo interoperabilità e
+
       uniformità gestionale.
     shortDescription: |-
       E' un sistema Informatico di Gestione degli Albi dei Medici Chirurghi
+
       edegli Odontoiatri . Supporta tutte le attività gestionali e
+
       amministrative.
 developmentStatus: stable
 intendedAudience:
