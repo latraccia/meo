@@ -44,27 +44,22 @@ description:
       - |-
         Delibere : Iscrizioni, Cancellazioni,  Stato delle richieste, Lettere
 
-
         conferma...
       - 'Iscritti: Gestione Anagrafica iscritto , STP...'
       - |-
         Procedimenti Disciplinari:  Intero ciclo di vita di un procedimento
 
-
         disciplinare
       - |-
         Ruoli : Generazione, Predisposizione File per differenti
-
 
         PsP,integrazione pagoPA, Solleciti, Morosi
       - |-
         Pagamenti e Incassi : Posizioni Debitorie , Rendicontazioni , Ricevute
 
-
         di Pagamento
       - |-
         Stampe : Estrazioni in vari formati dei dati secondo in modalità
-
 
         parametrica
     genericName: Gestione Albi Medici e Odontoiatri
@@ -73,28 +68,21 @@ description:
 
 
 
-
       # dei Medici Chirurghi e degli Odontoiatri
-
 
 
 
       E' un sistema Informatico di Gestione degli Albi dei Medici Chirurghi e
 
-
       degli Odontoiatri . 
-
 
 
 
       Supporta tutte le attività gestionali e amministrative dell’Ordine,
 
-
       automatizzando  il ciclo di presenza di un iscritto, a partire dalla
 
-
       richiesta di iscrizione sino alla cancellazione dagli albi.
-
 
 
 
@@ -102,66 +90,49 @@ description:
 
 
 
-
       MeO è stato sviluppato nel 1990 secondo le specifiche richieste
-
 
       dall'Ordine dei Medici Chirurghi ed Odontoiatri della Provincia di Bari.
 
 
 
-
       E' oggi utilizzato da oltre 20 Ordini Professionali dei Medici Chirurghi e
 
-
       degli Odontoiatri, ed è stato evoluto a seconda delle esigenze normative
-
 
       e/o organizzative. 
 
 
 
-
       Nel 2017 è stata rilasciata la versione Web del modulo MEO e l'anno
-
 
       successivo è stato reso disponibile in Cloud. 
 
 
 
-
       A marzo 2021 il software è stato certificato nel Marketplace AGID
-
 
       (https://catalogocloud.agid.gov.it/service/1607).
 
 
 
-
       Il Sistema è assimilabile ad un vero e proprio Enterprise Resource
 
-
       Planning (ERP) nell'ambito della gestione degli Ordini Professionali dei
-
 
       Medici Chirurghi ed Odontoiatri. 
 
 
 
-
       Si integra con una serie di moduli specifici moduli (protocollo,
 
-
       contabilità...) supportandone i processi e garantendo interoperabilità e
-
 
       uniformità gestionale.
     shortDescription: |-
       E' un sistema Informatico di Gestione degli Albi dei Medici Chirurghi
 
-
       edegli Odontoiatri . Supporta tutte le attività gestionali e
-
 
       amministrative.
 developmentStatus: stable
@@ -190,7 +161,6 @@ localisation:
   availableLanguages:
     - it
   localisationReady: false
-logo: 'https://raw.githubusercontent.com/latraccia/meo/master/Documenti/logo.png'
 maintenance:
   contacts:
     - email: alobefaro@latraccia.it
